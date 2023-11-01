@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to bottom, #42ffff, #54ff87); 
+    font-family: Arial, sans-serif;
+    color: #000000; 
+    margin: 0; 
+    padding: 0; 
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto; 
+    padding: 20px; 
+}
+
+h1 {
+    color: #00aa39; 
+}
+
+
+form {
+    padding: 20px; 
+    border-radius: 10px; 
+}
+
+.form-control {
+    margin-bottom: 15px; /* Adiciona espaço entre os campos do formulário */
+}
+
+.btn-primary {
+    background: #00dd55; 
+    color: #000000; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px;
+    cursor: pointer; 
+}
+
+.btn-primary:hover {
+    background: #008000; 
+}
